@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kristine Wilson's Resume
 ---
-# Brigham Young
+# Kristine M. Wilson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -16,26 +16,28 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Biostatistics
 
+__Phlebotomy_Certification
+
+__Clinical_Laboratory_Assistant_Certification
+
+__EMT-Basic_Certification
+
+-Through Weber State University 2011
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2010 - December 2010`
+__Ogden Regional Medical Center__, Ogden, Ut
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
+- Shadowed health professionals thoughout different hospitals
+- 
 - Published a journal article in Environmental Quality.
 
 ### Data Science Lead
