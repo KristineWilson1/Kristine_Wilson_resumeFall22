@@ -15,35 +15,43 @@ Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professiona
 
 ## Education
 
-`Expected 2023`
+`Graduation Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Biostatistics
 
+`Attended 2011 - 2015`
+__Weber State University__, Ogden, UT
+
+- General Education
+
+`Attended August 2021 - December 2021`
+__Salt Lake Community College__
+
+-Calculus II
+
 `Previous Certifications`
 
-__Phlebotomy_Certification__
+__Phlebotomy Certification__, OWATC, Ogden, UT
 
-__Clinical_Laboratory_Assistant_Certification__
+__Clinical Laboratory Assistant Certification__, OWATC, Ogden, UT
 
-__EMT-Basic_Certification__
+__EMT-Basic Certification__, Weber State University, Ogden, UT
 
-- Through Weber State University 2011
-
-__Certified Nursing Assistant__
+__Certified Nursing Assistant__, Bonneville High School, South Ogden, UT
 
 ## Related Experience
 
 ### Internships and Research
 
 `August 2010 - December 2010`
-__Ogden Regional Medical Center Internship__, Ogden, Ut
+__Ogden Regional Medical Center Internship__, Ogden, UT
 
 - Shadowed health professionals thoughout different departments in hospitals
 - Assited health professionals when appropriate
 
 `April 2022 - December 2022`
-__Biology Research Goup__, Rexburg, Id
+__Biology Research Goup__, Rexburg, ID
 
 - Research Advisor: Cody Smith
 - Research Advisor: Michael Terribilini
@@ -62,12 +70,16 @@ __Biology Research Goup__, Rexburg, Id
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2015-2022`
+__Chemistry Lab Technician I__, Capstone Nutrition
+__Chemistry Lab Technician II__, Capstone Nutrition
+__Sample Coordinator__, Capstone Nutrition
+__Microbiology Lab Technician__, Capstone Nutrion 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2013-2015`
+__Lab Technician__, Mountain Star Blood Services
+__Phelbotomist__, Mountain Star Blood Services
 
 
 
