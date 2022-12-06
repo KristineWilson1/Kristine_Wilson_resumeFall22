@@ -3,11 +3,10 @@ layout: cv
 title: Kristine Wilson's Resume
 ---
 # Kristine M. Wilson
-.
+
+Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -21,6 +20,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Biostatistics
 
+`Previous Certifications`
+
 __Phlebotomy_Certification
 
 __Clinical_Laboratory_Assistant_Certification
@@ -29,48 +30,34 @@ __EMT-Basic_Certification
 
 -Through Weber State University 2011
 
+__Certified Nursing Assistant
+
 ## Related Experience
 
-### Internships
+### Internships and Research
 
 `August 2010 - December 2010`
-__Ogden Regional Medical Center__, Ogden, Ut
+__Ogden Regional Medical Center Internship__, Ogden, Ut
 
-- Shadowed health professionals thoughout different hospitals
-- 
-- Published a journal article in Environmental Quality.
+- Shadowed health professionals thoughout different departments in hospitals
+- Assited health professionals when appropriate
 
-### Data Science Lead
+`April 2022 - December 2022`
+__Biology Research Goup__, Rexburg, Id
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+-Research Advisor: Cody Smith
+-Research Advisor: Michael Terribilini
+-Conducted Reasearch: Multiplex PCR, and SSP-PCR
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Relevent Coursework
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Calculus I, Calculus II, Calculus III
+- Linear Algebra I, Linear Algebra II (planned 2023)
+- Intermediate Statistics in R Programming
+- Experimental Design in R Programming
+- Applied Linear Regression (planned 2023) 
+- Biology I, Biology II
+- Genetics (planned 2023)
 
 
 ## Service and Work History
@@ -86,6 +73,6 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
