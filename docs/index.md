@@ -45,9 +45,9 @@ __Ogden Regional Medical Center Internship__, Ogden, Ut
 `April 2022 - December 2022`
 __Biology Research Goup__, Rexburg, Id
 
--Research Advisor: Cody Smith
--Research Advisor: Michael Terribilini
--Conducted Reasearch: Multiplex PCR, and SSP-PCR
+- Research Advisor: Cody Smith
+- Research Advisor: Michael Terribilini
+- Conducted Reasearch: Multiplex PCR, and SSP-PCR
 
 ### Relevent Coursework
 
