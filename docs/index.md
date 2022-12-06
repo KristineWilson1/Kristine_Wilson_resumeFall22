@@ -22,15 +22,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `Previous Certifications`
 
-__Phlebotomy_Certification
+__Phlebotomy_Certification__
 
-__Clinical_Laboratory_Assistant_Certification
+__Clinical_Laboratory_Assistant_Certification__
 
-__EMT-Basic_Certification
+__EMT-Basic_Certification__
 
--Through Weber State University 2011
+- Through Weber State University 2011
 
-__Certified Nursing Assistant
+__Certified Nursing Assistant__
 
 ## Related Experience
 
