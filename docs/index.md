@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Kristine Wilson's Resume
+title: ""
+theme: minty
 ---
 # Kristine M. Wilson
 
 *Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional*
 
 <div id="webaddress">
-| 
+<a href="kristinewilson@byui.edu">kristinewilson@byui.edu</a>
+| <a href = "https://www.byui.edu/majors/biostatistics-(bs)">Biostatistics</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -17,21 +19,24 @@ title: Kristine Wilson's Resume
 ## Education
 
 `Graduation Expected 2023`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Biostatistics
 
 `Attended 2011 - 2015`
+
 __Weber State University__, Ogden, UT
 
 - General Education
 
 `Attended August 2021 - December 2021`
+
 __Salt Lake Community College__
 
 -Calculus II
 
-`Previous Certifications`
+### Previous Certifications
 
 __Phlebotomy Certification__, OWATC, Ogden, UT
 
@@ -46,12 +51,14 @@ __Certified Nursing Assistant__, Bonneville High School, South Ogden, UT
 ### Internships and Research
 
 `August 2010 - December 2010`
+
 __Ogden Regional Medical Center Internship__, Ogden, UT
 
 - Shadowed health professionals thoughout different departments in hospitals
 - Assited health professionals when appropriate
 
 `April 2022 - December 2022`
+
 __Biology Research Goup__, Rexburg, ID
 
 - Research Advisor: Cody Smith
@@ -72,14 +79,20 @@ __Biology Research Goup__, Rexburg, ID
 ## Service and Work History
 
 `2015-2022`
+
 __Chemistry Lab Technician I__, Capstone Nutrition
+
 __Chemistry Lab Technician II__, Capstone Nutrition
+
 __Sample Coordinator__, Capstone Nutrition
+
 __Microbiology Lab Technician__, Capstone Nutrion 
 
 
 `2013-2015`
+
 __Lab Technician__, Mountain Star Blood Services
+
 __Phelbotomist__, Mountain Star Blood Services
 
 
