@@ -4,9 +4,10 @@ title: Kristine Wilson's Resume
 ---
 # Kristine M. Wilson
 
-Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional
+*Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional*
 
 <div id="webaddress">
+| 
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
