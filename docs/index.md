@@ -90,7 +90,7 @@ __Sample Coordinator__, Capstone Nutrition
 
 __Microbiology Lab Technician__, Capstone Nutrion 
 
-*Ran analytical instruments such as: HPLC, UV-VIS, ELIZA and FTIR. Performed experiments for microbiology and qualitative chemistry experiments.
+*Ran analytical instruments such as: HPLC, UV-VIS, ELIZA and FTIR. Performed experiments for microbiology and qualitative chemistry experiments.*
 
 
 `2013-2015`
@@ -99,7 +99,7 @@ __Lab Technician__, Mountain Star Blood Services
 
 __Phelbotomist__, Mountain Star Blood Services
 
-*Took donors through entire process of donation, including interview, physical, and phlebotomy. Process Blood donations into seperate components, stored at correct parameters and labeled blood components. Packed and shipped components to ensure quality. 
+*Took donors through entire process of donation, including interview, physical, and phlebotomy. Process Blood donations into seperate components, stored at correct parameters and labeled blood components. Packed and shipped components to ensure quality.* 
 
 <!-- ### Footer
 
