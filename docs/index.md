@@ -7,6 +7,8 @@ theme: minty
 
 *Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional*
 
+#You can also add more information about yourself
+
 <div id="webaddress">
 <a href="kristinewilson@byui.edu">kristinewilson@byui.edu</a>
 | <a href = "https://www.byui.edu/majors/biostatistics-(bs)">Biostatistics</a>
@@ -17,6 +19,8 @@ theme: minty
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+
+#You can make it iltalized and bold for as it woukd look good on your resume
 
 `Graduation Expected 2023`
 
@@ -95,7 +99,7 @@ __Lab Technician__, Mountain Star Blood Services
 
 __Phelbotomist__, Mountain Star Blood Services
 
-
+ #Add more information about what you do as those two jobs
 
 <!-- ### Footer
 
