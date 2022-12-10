@@ -90,7 +90,7 @@ __Sample Coordinator__, Capstone Nutrition
 
 __Microbiology Lab Technician__, Capstone Nutrion 
 
-*Ran analytical instruments such as: HPLC, UV-VIS, ELIZA and FTIR. Performed experiments for microbiology and qualitative chemistry experiments.*
+*Ran analytical instruments such as: HPLC, UV-VIS, ELIZA and FTIR. Performed experiments for microbiology and qualitative chemistry experiments.
 
 
 `2013-2015`
