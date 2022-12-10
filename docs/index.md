@@ -7,8 +7,6 @@ theme: minty
 
 *Innovative, Ambitious, Highly Disciplined, Empathetic, and Versatile Professional*
 
-#You can also add more information about yourself
-
 <div id="webaddress">
 <a href="kristinewilson@byui.edu">kristinewilson@byui.edu</a>
 | <a href = "https://www.byui.edu/majors/biostatistics-(bs)">Biostatistics</a>
@@ -92,6 +90,8 @@ __Sample Coordinator__, Capstone Nutrition
 
 __Microbiology Lab Technician__, Capstone Nutrion 
 
+*Ran analytical instruments such as: HPLC, UV-VIS, ELIZA and FTIR. Performed experiments for microbiology and qualitative chemistry experiments.*
+
 
 `2013-2015`
 
@@ -99,7 +99,7 @@ __Lab Technician__, Mountain Star Blood Services
 
 __Phelbotomist__, Mountain Star Blood Services
 
- #Add more information about what you do as those two jobs
+*Took donors through entire process of donation, including interview, physical, and phlebotomy. Process Blood donations into seperate components, stored at correct parameters and labeled blood components. Packed and shipped components to ensure quality. 
 
 <!-- ### Footer
 
